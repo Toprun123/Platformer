@@ -101,7 +101,7 @@ class Game:
             self.keyEvents()
             # Update accordingly
             self.update()
-            # Finally Draw the Contents onto the screen
+            # Finally, Draw the Contents onto the screen
             self.draw()
     # Check for KeyBoard Events
     def keyEvents(self):
@@ -460,7 +460,7 @@ class Game:
                 hsf = open('info.pydb', 'w')
                 hsf.write(str(self.final))
                 self.hs = self.final
-    # Finally Draw Output on Screen
+    # Finally, Draw Output on Screen
     def draw(self):
         # Game Loop - draw
         # Print BG

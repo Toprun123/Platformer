@@ -10,7 +10,7 @@
 ## What is it?
 Platformer is a simple platformer game which uses pygame to run. It can be sometimes addictive. And goes on forever as long as you don't lose.
 ## How to Run?
-Make sure you have python and it is added to your path
+Make sure you have python, and it is added to your path
 ```bash
 python3 --help
 ```
@@ -32,7 +32,7 @@ Then run The game using this
 python3 run.py
 ```
 ## How To Play?
-You can use the arrow keys <kbd>RIGHT→</kbd>, <kbd>LEFT←</kbd> and <kbd>UP↑</kbd> to move around <kbd>spacebar</kbd> can also be used to jump.<br>The game uses near real calculations for gravity, velocity, acceleration, etc.<br>This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>`K_RIGHT` for right and `K_LEFT` for left.<br>Touching Bomb activates it.<br>The Key can be used to open the Surprise boxes. The Suprise boxes can give anything good or dangerous.
+You can use the arrow keys <kbd>RIGHT→</kbd>, <kbd>LEFT←</kbd> and <kbd>UP↑</kbd> to move around <kbd>spacebar</kbd> can also be used to jump.<br>The game uses near real calculations for gravity, velocity, acceleration, etc.<br>This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>`K_RIGHT` for right and `K_LEFT` for left.<br>Touching Bomb activates it.<br>The Key can be used to open the Surprise boxes. The Surprise boxes can give anything good or dangerous.
 ## **Images:**
 ### **Random Scene From The Game:-**<br>
 <img src="./img/ScreenShot000.png" alt="Random Scene" width="300"/><br>
