@@ -2,14 +2,14 @@
 ---
 ### Table of Contents
 1. [What is **Platformer**?](#what-is-it)
-2. [How To Play](#how-to-play)
+2. [How To Run](#how-to-run)
+3. [How To Play](#how-to-play)
 2. [Screen Shots](#images)
-3. [How To Use](#how-to-use)
 ---
 ### **Video Demo:** https://www.youtube.com/v/myvideo/
 ## What is it?
 Platformer is a simple platformer game which uses pygame to run. It can be sometimes addictive. And goes on forever as long as you don't lose.
-## How to Play?
+## How to Run?
 Make sure you have python and it is added to your path
 ```bash
 python3 --help
@@ -31,18 +31,17 @@ Then run The game using this
 ```bash
 python3 run.py
 ```
+## How To Play?
+You can use the arrow keys to move around `spacebar` can also be used to jump.<br>
+The game uses near real calculations for gravity, velocity, acceleration, etc.<br>
+This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>
+`K_RIGHT` for right and `K_LEFT` for left.<br>
+Touching Bomb activates it. The Key can be used to open the Surprise boxes
 ## **Images:**
 **Random Scene From The Game:-**<br>
 <img src="./img/ScreenShot000.png" alt="Random Scene" width="300"/><br>**Start Screen:-**<br>
 <img src="./img/ScreenShot001.png" alt="Start Screen" width="300"/><br>**Game Over Screen:-**<br>
 <img src="./img/ScreenShot002.png" alt="Game Over" width="300"/><br>**Big Blast:-**<br>
 <img src="./img/ScreenShot003.png" alt="Bomb Blast" width="300"/><br>
-## How To Use
-You can use the arrow keys to move around `spacebar` can also be used to jump.<br>
-The game uses near real calculations for gravity, velocity, acceleration, etc.<br>
-This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>
-`K_RIGHT` for right and `K_LEFT` for left.<br>
-Touching Bomb activates it. The Key can be used to open the Surprise boxes
-
 ---
 Game Graphics By Kenney @ https://www.kenney.nl/
