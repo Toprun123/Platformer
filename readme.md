@@ -36,7 +36,7 @@ You can use the arrow keys <kbd>RIGHT</kbd>, <kbd>LEFT</kbd> and <kbd>UP</kbd> t
 The game uses near real calculations for gravity, velocity, acceleration, etc.<br>
 This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>
 `K_RIGHT` for right and `K_LEFT` for left.<br>
-Touching Bomb activates it. The Key can be used to open the Surprise boxes
+Touching Bomb activates it. The Key can be used to open the Surprise boxes. The Suprise boxes can give anything good or dangerous
 ## **Images:**
 **Random Scene From The Game:-**<br>
 <img src="./img/ScreenShot000.png" alt="Random Scene" width="300"/><br>**Start Screen:-**<br>
