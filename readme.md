@@ -15,6 +15,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <img src="./img/ScreenShot002.png" alt="Game Over" width="300"/><br>**Big Blast:-**<br>
 <img src="./img/ScreenShot003.png" alt="Bomb Blast" width="300"/><br>
 ## How To Use
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
------
+You can use the arrow keys to move around `spacebar` can also be used to jump.<br>
+The game uses near real calculations for gravity, velocity, acceleration, etc.<br>
+This game uses PyGame's K_SPACE & K_UP for Jump.<br>
+K_RIGHT for right and K_LEFT for left.<br>
+---
 Game Graphics By Kenney @ https://www.kenney.nl/
