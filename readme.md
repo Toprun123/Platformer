@@ -20,4 +20,5 @@ The game uses near real calculations for gravity, velocity, acceleration, etc.<b
 This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>
 `K_RIGHT` for right and `K_LEFT` for left.<br>
 
+---
 Game Graphics By Kenney @ https://www.kenney.nl/
