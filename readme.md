@@ -15,7 +15,7 @@ Make sure you have python and it is added to your path
 python3 --help
 ```
 ... should give the output ...
-```bash
+```
 usage: python3 [option] ... [-c cmd | -m mod | file | -] [arg] ...
 Options and arguments (and corresponding envir... **And More**
 ```
