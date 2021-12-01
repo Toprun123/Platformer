@@ -11,24 +11,24 @@
 Platformer is a simple platformer game which uses pygame to run. It can be sometimes addictive. And goes on forever as long as you don't lose.
 ## How to Play?
 Make sure you have python and it is added to your path
-```
+```bash
 python3 --help
 ```
 ... should give the output ...
-```
+```bash
 usage: python3 [option] ... [-c cmd | -m mod | file | -] [arg] ...
 Options and arguments (and corresponding envir... **And More**
 ```
 Next install pygame using
-```
+```bash
 python3 -m pip install pygame
 ```
 ... or using this ...
-```
+```bash
 pip install -r requirements.txt
 ```
 Then run The game using
-```
+```bash
 python3 run.py
 ```
 ## **Images:**
