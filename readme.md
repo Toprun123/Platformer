@@ -17,5 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ## How To Use
 You can use the arrow keys to move around `spacebar` can also be used to jump.
 The game uses near real calculations for gravity, velocity, acceleration, etc.
+This game uses PyGame's K_SPACE & K_UP for Jump.
+K_RIGHT for right and K_LEFT for left.
 ---
 Game Graphics By Kenney @ https://www.kenney.nl/
