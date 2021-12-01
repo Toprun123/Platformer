@@ -2,8 +2,8 @@
 ---
 ### Table of Contents
 1. [What is **Platformer**?](#what-is-it)
-2. [How To Run](#how-to-run)
-3. [How To Play](#how-to-play)
+2. [How To Run?](#how-to-run)
+3. [How To Play?](#how-to-play)
 2. [Screen Shots](#images)
 ---
 ### **Video Demo:** https://www.youtube.com/v/myvideo/
