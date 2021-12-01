@@ -2,12 +2,31 @@
 ---
 ### Table of Contents
 1. [What is **Platformer**?](#what-is-it)
+2. [How To Play](#how-to-play)
 2. [Screen Shots](#images)
 3. [How To Use](#how-to-use)
 ---
 ### **Video Demo:** https://www.youtube.com/v/myvideo/
 ## What is it?
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## How to Play?
+Make sure you have python and it is added to your path
+```
+python3 --help
+```
+... should give the output ...
+```
+usage: python3 [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Options and arguments (and corresponding envir...
+```
+Next install pygame using
+```
+python3 -m pip install pygame
+```
+Then run The game using
+```
+python3 run.py
+```
 ## **Images:**
 **Random Scene From The Game:-**<br>
 <img src="./img/ScreenShot000.png" alt="Random Scene" width="300"/><br>**Start Screen:-**<br>
@@ -19,6 +38,7 @@ You can use the arrow keys to move around `spacebar` can also be used to jump.<b
 The game uses near real calculations for gravity, velocity, acceleration, etc.<br>
 This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>
 `K_RIGHT` for right and `K_LEFT` for left.<br>
+Touching Bomb activates it. The Key can be used to open the Surprise boxes
 
 ---
 Game Graphics By Kenney @ https://www.kenney.nl/
