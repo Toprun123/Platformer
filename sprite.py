@@ -314,13 +314,10 @@ class Blocker              (p.sprite.Sprite):
         self.acc = vec(0, 0)
     def update(self):
         self.acc = vec(0, PLAYER_GRA)
-
         self.acc.x += self.vel.x * -PLAYER_FRI
         self.vel += self.acc
         self.pos += self.vel + 0.5 * self.acc
-
         self.rect.midbottom = self.pos
-
         if self.pos.x > WIDTH:
             self.pos.x = 0
         if self.pos.x < 0:
