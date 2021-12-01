@@ -8,7 +8,7 @@
 ---
 ### **Video Demo:** https://www.youtube.com/v/myvideo/
 ## What is it?
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Platformer is a simple platformer game which uses pygame to run. It can be sometimes addictive. And goes on forever as long as you don't lose.
 ## How to Play?
 Make sure you have python and it is added to your path
 ```
