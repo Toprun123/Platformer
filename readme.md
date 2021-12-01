@@ -19,7 +19,7 @@ python3 --help
 usage: python3 [option] ... [-c cmd | -m mod | file | -] [arg] ...
 Options and arguments (and corresponding envir... **And More**
 ```
-Next install pygame using
+Next install pygame using this ...
 ```bash
 python3 -m pip install pygame
 ```
@@ -27,7 +27,7 @@ python3 -m pip install pygame
 ```bash
 pip install -r requirements.txt
 ```
-Then run The game using
+Then run The game using this
 ```bash
 python3 run.py
 ```
