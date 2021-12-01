@@ -1,7 +1,7 @@
 # **Platformer**
 ---
 ### Table of Contents
-1. [What is **Platformer**?](#what-is-it?:)
+1. [What is **Platformer**?](#what-is-it?)
 2. [Third Example](#Images:)
 3. [Fur ex](#how-to-use)
 ---
