@@ -23,6 +23,10 @@ Next install pygame using
 ```
 python3 -m pip install pygame
 ```
+... or using this ...
+```
+pip install -r requirements.txt
+```
 Then run The game using
 ```
 python3 run.py
