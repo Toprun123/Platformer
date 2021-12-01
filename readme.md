@@ -2,8 +2,8 @@
 ---
 ### Table of Contents
 1. [What is **Platformer**?](#what-is-it)
-2. [Third Example](#Images:)
-3. [Fur ex](#how-to-use)
+2. [Screen Shots](#images)
+3. [How To Use](#how-to-use)
 ---
 ### **Video Demo:** http://www.youtube.com/v/myvideo
 ## What is it?
