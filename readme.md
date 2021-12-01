@@ -6,7 +6,7 @@
 3. [How To Play?](#how-to-play)
 2. [Screen Shots](#images)
 ---
-### **Video Demo:** https://www.youtube.com/
+### **Video Demo:** https://youtu.be/MEbm18Ac3N8
 ## What is it?
 Platformer is a simple platformer game which uses pygame to run. It can be sometimes addictive. And goes on forever as long as you don't lose.
 ## How to Run?
