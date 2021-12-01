@@ -133,7 +133,7 @@ class Game:
                 if event.key == p.K_q:
                     self.fl = False
                 if event.key == p.K_w:
-                    self.flo = True
+                    self.flo = False
     # Update game loop
     def update(self):
         # Game Loop - Update
@@ -164,8 +164,9 @@ class Game:
                 if self.key:
                     if self.flo:
                         self.key = False
+                        self.flo = False
                         sBoxCol[0].kill()
-                        h = 8#r.randrange(3, 9)
+                        h = r.randrange(3, 8)#9
                         if h == 4:
                             j = Jumper(sBoxCol[0].rect.x, sBoxCol[0].rect.y)
                             self.all_sprites.add(j)
@@ -187,12 +188,12 @@ class Game:
                             self.coins.add(heart)
                             coin = True
                             print("Coin")
-                        elif h == 8:
-                            p2 = Bomb(sBoxCol[0].rect.x, sBoxCol[0].rect.y, self)
-                            p2.active = True
-                            self.all_sprites.add(p2)
-                            self.bombs.add(p2)
-                            print("Bomb")
+                        #elif h == 8:
+                            #p2 = Bomb(sBoxCol[0].rect.x, sBoxCol[0].rect.y, self)
+                            #p2.active = True
+                            #self.all_sprites.add(p2)
+                            #self.bombs.add(p2)
+                            #print("Bomb")
                         else:
                             heart = Heart(sBoxCol[0].rect.y, sBoxCol[0].rect.x)
                             self.all_sprites.add(heart)
@@ -371,6 +372,7 @@ class Game:
                         self.all_sprites.add(col)
                         self.gt.add(col)
                         self.sBoxes.add(col)
+                        self.platforms.add(col)
                     # Add Platform
                     p1 = Platform(self.x, self.y, width, 20)
                     self.platforms.add(p1)

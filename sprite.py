@@ -256,7 +256,7 @@ class Explosion            (p.sprite.Sprite):
     def __init__(self, center, game, omega, snd):
         p.sprite.Sprite.__init__(self)
         self.explosion_anim = list()
-        for i in range(2):
+        for i in range(9):
             filename = 'regularExplosion0{}.png'.format(i)
             img = p.image.load(path.join(img_dir, filename)).convert()
             img.set_colorkey(BLACK)
@@ -277,8 +277,7 @@ class Explosion            (p.sprite.Sprite):
             self.last_update = now
             self.frame += 1
             if self.frame == len(self.explosion_anim):
-                #self.kill()
-                pass
+                self.kill()
             elif self.frame == 1:
                 self.game.expl_snd.play()
             else:
