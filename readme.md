@@ -32,7 +32,7 @@ Then run The game using this
 python3 run.py
 ```
 ## How To Play?
-You can use the arrow keys <kbd>RIGHT→</kbd>, <kbd>LEFT←</kbd> and <kbd>UP↑</kbd> to move around <kbd>spacebar</kbd> can also be used to jump.<br>The game uses near real calculations for gravity, velocity, acceleration, etc.<br>This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>`K_RIGHT` for right and `K_LEFT` for left.<br>Touching Bomb activates it.<br>The Key can be used to open the Surprise boxes. The Surprise boxes can give anything good or dangerous.
+You can use the arrow keys <kbd>RIGHT→</kbd>, <kbd>LEFT←</kbd> and <kbd>UP↑</kbd> to move around <kbd>spacebar</kbd> can also be used to jump.<br>The game uses near real calculations for gravity, velocity, acceleration, etc.<br>This game uses PyGame's `K_SPACE` & `K_UP` for Jump.<br>`K_RIGHT` for right and `K_LEFT` for left.<br>Touching Bomb activates it.<br>After pressing <kbd>w</kbd> the key can be used to open the Surprise boxes. The Surprise boxes can give anything good or dangerous.<br>The key <kbd>q</kbd> can be used to randomly place the custom box.
 ## **Images:**
 ### **Random Scene From The Game:-**<br>
 <img src="./img/ScreenShot000.png" alt="Random Scene" width="300"/><br>
