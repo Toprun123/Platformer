@@ -36,3 +36,5 @@ PLATFORM_LIST = [
 # Create Image and Sound Directories
 img_dir = path.join(path.dirname(__file__), 'img')
 snd_dir = path.join(path.dirname(__file__), 'snd')
+p.init()
+p.mixer.init()

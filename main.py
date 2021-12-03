@@ -23,8 +23,7 @@ class Game:
     # TODO: BUG: Show Start Screen
     def show_start_screen(self):
         # game splash/start screen
-        self.draw_text("Start The Game", 125, BLACK, WIDTH / 2, HEIGHT / 2 - 50)
-        self.draw_text("NO Don't", 25, BLACK, WIDTH / 2, HEIGHT / 2 + 50)
+        self.draw_text("Press space to Start The Game", 125, BLACK, WIDTH / 2, HEIGHT / 2 - 50)
     # Start New Game
     def new(self, run=True):
         # start a new game
