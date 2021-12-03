@@ -69,11 +69,11 @@ All the classes are grouped as follows:-
     2. KeyHUD
 5. Enemy Elements & Mobs.
     1. Elements
-      1. Spike
-      2. Explosion
+        1. Spike
+        2. Explosion
     2. Mobs
-      1. Blocker
-      2. Bomb
+        1. Blocker
+        2. Bomb
 6. Powerups & Other good stuff.
     1. Jumper
     2. Heart
